@@ -44,7 +44,7 @@ class BombaCombustivel:
 def main():
     bomba = BombaCombustivel()
     bomba.cad_combustivel('gasolina', 5.80)
-    bomba.ab_preco('gasolina', 20)
+    bomba.ab_preco('gasolina', 90)
     bomba.ex_dados()
 
 if __name__ == "__main__":
